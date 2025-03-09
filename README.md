@@ -44,7 +44,7 @@ The study examined queer media characters’ impacts on LGBTQ+ individuals’ ps
  This study contributes to a more nuanced understanding of LGBTQ+ individuals’ diverse
  needs and experiences with queer media representation, which has significant implications for
  media producers, mental health professionals, and LGBTQ+ advocacy groups in fostering more
- positive and inclusive media representations for the LGBTQ+ community
+ positive and inclusive media representations for the LGBTQ+ community.
 
 
 
