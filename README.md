@@ -25,3 +25,31 @@ global Cinderellas in the book.
 3. **Becoming a Girl or an Elite: Comparing Female Students at St.Paul School with Contemporary Chinese High Schools in Coping with the 'Girl Elite' Paradox**
 - [View the paper](./2023_Becoming%20a%20Girl%20or%20an%20Elite_Comparing%20Female%20Students%20at%20St%20Paul%20School%20with%20Contemporary%20Chinese%20High%20Schools%20in%20Coping%20with%20the%20Girl%20Elite%20Paradox.pdf)
 This paper is a book review and research project in the sociology course in college. It discusses the transition from elite reproduction to new elite creation in the U.S., highlighting the paradox of democratic inequality. The review focuses on the challenges girls face in acquiring privilege, particularly the 'Girl Elite' paradox, where societal expectations around sexuality limit their social capital compared to boys. It contrasts this with the experiences of Chinese high school girls, who navigate new ideals of femininity amidst neoliberal pressures, emphasizing the shift from 'strong women' to 'excellent beauty' due to social media influence. The analysis includes interviews from Shenzhen College of International Education, revealing varied responses to societal expectations of femininity.
+
+4. **The Social Production of Folk Evils: Revisiting Deviancy Amplification in Crimes**
+- [View the paper](./2023_Divancy%20Amplification%20and%20Crimes.pdf)
+This paper is a course assignment from the Criminal Justice course in University of Cambridge summer school. The paper first revisits the theory and mechanisms of deviancy amplification. Then, it utilizes 
+empirical evidence and cases to illustrate deviancy amplification. Finally, it indicates the limitations 
+of deviancy amplification and provides implications for criminal justice.
+
+5. **Queer Media and LGBTQ+ Psychological Well-Being**
+- [View the paper](./2025_Queer%20Media%20and%20LGBTQ+%20Wellbeing.pdf)
+The study examined queer media characters’ impacts on LGBTQ+ individuals’ psychological well-being through two overarching research questions. The first research question investigated whether there were differences in queer characters’ psychological impacts among LGBTQ+ individuals with different identities. The second research question asked whether queer media consumption patterns, perceived character authenticity, and perceived character intersectionality contribute to different LGBTQ+ identities’ impacts on queer media characters’ psychological impacts. Findings revealed that marginal groups within the LGBTQ+ community, including those
+ from developing countries, gender minorities, and racial minorities, reported higher scores about
+ queer media characters’ positive impacts on psychological well-being compared to their
+ mainstream counterparts. However, in terms of sexual orientation, mainstream groups (i.e., gay
+ and lesbian respondents) showed higher scores. Importantly, the study found strong positive
+ correlations between authenticity ratings, intersectionality ratings, and scores of queer characters’
+ positive impacts on LGBTQ+ individuals’ psychological well-being.
+ This study contributes to a more nuanced understanding of LGBTQ+ individuals’ diverse
+ needs and experiences with queer media representation, which has significant implications for
+ media producers, mental health professionals, and LGBTQ+ advocacy groups in fostering more
+ positive and inclusive media representations for the LGBTQ+ community
+
+
+
+
+
+
+
+
