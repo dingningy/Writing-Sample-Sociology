@@ -21,3 +21,7 @@ intersecting structural forces to bargain with the patriarchy. The last part foc
 the discussion of mothering in ***Global Cinderellas***, further interpreting the 
 transboundary mothering by comparing a domestic worker in Guangxi province with 
 global Cinderellas in the book.
+
+3. **Becoming a Girl or an Elite: Comparing Female Students at St.Paul School with Contemporary Chinese High Schools in Coping with the 'Girl Elite' Paradox**
+- [View the paper](./2023_Becoming%20a%20Girl%20or%20an%20Elite_Comparing%20Female%20Students%20at%20St%20Paul%20School%20with%20Contemporary%20Chinese%20High%20Schools%20in%20Coping%20with%20the%20Girl%20Elite%20Paradox.pdf)
+This paper is a book review and research project in the sociology course in college. It discusses the transition from elite reproduction to new elite creation in the U.S., highlighting the paradox of democratic inequality. The review focuses on the challenges girls face in acquiring privilege, particularly the 'Girl Elite' paradox, where societal expectations around sexuality limit their social capital compared to boys. It contrasts this with the experiences of Chinese high school girls, who navigate new ideals of femininity amidst neoliberal pressures, emphasizing the shift from 'strong women' to 'excellent beauty' due to social media influence. The analysis includes interviews from Shenzhen College of International Education, revealing varied responses to societal expectations of femininity.
